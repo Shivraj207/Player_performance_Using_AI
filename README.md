@@ -80,4 +80,8 @@ figure = px.scatter(data_frame = data, x="Runs",
                     y="6s", size="SR", trendline="ols", 
                     title= "Relationship Between Runs Scored and Sixes")
 figure.show()
+#IMPLEMENTATION VIDEO
+
+
+https://github.com/Shivraj207/Player_performance_Using_AI/assets/93265880/32794966-c3ee-42f5-9120-d97eccc93ee7
 
